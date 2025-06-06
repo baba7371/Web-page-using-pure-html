@@ -1,5 +1,5 @@
 <!-- Question:
-Create a complete HTML5 webpage for a fictional online course platform called "SkillWave Academy". Your HTML page should include the following:
+Create a complete HTML5 webpage for a fictional online course platform called "Knowledge Wave Academy". Your HTML page should include the following:
 
 1. HTML5 Boilerplate Structure
 Include <!DOCTYPE html>, <html>, <head>, <meta charset="UTF-8">, <title>, and a favicon or stylesheet <link>.
