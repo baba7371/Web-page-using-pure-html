@@ -1,0 +1,73 @@
+<!-- Question:
+Create a complete HTML5 webpage for a fictional online course platform called "SkillWave Academy". Your HTML page should include the following:
+
+1. HTML5 Boilerplate Structure
+Include <!DOCTYPE html>, <html>, <head>, <meta charset="UTF-8">, <title>, and a favicon or stylesheet <link>.
+
+2. Header Section
+Use <header> with a site title and a navigation menu (<nav>) linking to:
+
+Home
+
+Courses
+
+Contact
+
+About Us
+
+3. Main Section
+Use <main> containing:
+
+A <section> describing the platform with a <h1> and a <p> using <strong> or <em>.
+
+An <article> for the featured course with:
+
+A heading
+
+A description using a definition list (<dl>, <dt>, <dd>)
+
+A table showing course schedule with rowspan, colspan, <thead>, <tbody>, <tfoot>
+
+A <figure> with an embedded <video> tag showcasing a preview of the course.
+
+4. Aside Section
+Use <aside> for:
+
+A list (<ul>) of top 5 skills in demand
+
+A short message with a quote using <blockquote>
+
+5. Form Section
+Create a <form> titled "Enroll Now" with the following fields:
+
+Name (text)
+
+Email (type="email")
+
+Date of Birth (type="date")
+
+Gender (radio buttons)
+
+Course Selection (<select> with at least 3 options)
+
+Resume Upload (<input type="file">)
+
+Terms and conditions checkbox
+
+Submit button
+
+6. Footer Section
+Use <footer> that includes:
+
+A copyright
+
+Contact email
+
+Social media links using <a>
+
+7. Optional Enhancements
+Embed an <audio> element for welcome music or podcast.
+
+Include comments <!-- --> 
+
+<!-- Note: You must use only pure HTML5, no CSS or JavaScript. -->
